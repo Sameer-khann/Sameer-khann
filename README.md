@@ -3,7 +3,7 @@
 - I have completed Front-End development.
 - I’m currently learning ReactJs and about to start NodeJs.
 - I’m looking to collaborate.
-- My Linked in Profile https://www.linkedin.com/in/samir-khan-6986b6237
+- My LinkedIn Profile => https://www.linkedin.com/in/samir-khan-6986b6237
 
 <!---
 Sameer-khann/Sameer-khann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
